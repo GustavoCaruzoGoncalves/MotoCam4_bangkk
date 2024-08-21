@@ -1,0 +1,4 @@
+<permissions>
+   <library name="com.motorola.imager.u"
+       file="/system_ext/framework/com.motorola.imager.u.jar" />
+</permissions>
